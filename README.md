@@ -7,7 +7,7 @@
 |                          |                                                |
 | ------------------------ | ---------------------------------------------- |
 | Author                   | Josh Wilson                                   |
-| App Version              | 0.0.0                                          |
+| App Version              | 0.0.1                                          |
 | App Build                | 1                                             |
 | Creates an index         | false                                          |
 | Implements summarization | Currently, the app does not generate summaries |
