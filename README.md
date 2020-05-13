@@ -12,8 +12,6 @@
 | Creates an index         | false                                          |
 | Implements summarization | Currently, the app does not generate summaries |
 
-Dashboards and reports on Bricata Metadata and alerts in Splunk.
-
 ## Scripts and binaries
 
   - None
@@ -60,11 +58,11 @@ This add-on has been tested with Splunk versions 8.0.2.1.
 
 ### References
 
-
+    - None
 
 ### Downloads
 
-
+    -here
 
 ## Known Issues
 
